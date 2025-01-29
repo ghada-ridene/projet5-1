@@ -1,0 +1,27 @@
+.card-spec{
+    background-color: rgb(236, 235, 235);
+    border-radius: 10px;
+    padding: 2%;
+}
+.card-spec:hover{
+    background-color:  rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 2%;
+box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.265);
+color: orange;
+}
+.icon-size{
+    font-size: 20px;
+    border-radius: 100%;
+    width: 20%;
+    height: 30%;
+    background-color: rgb(255, 255, 255);
+    border: black 2px solid;
+    text-align: center;
+    padding-top: 4%;
+}
+.arrow-pos{
+    padding-left: 70%;
+    margin-top: 20%;
+    
+}
