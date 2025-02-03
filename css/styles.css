@@ -25,3 +25,35 @@ color: orange;
     margin-top: 20%;
     
 }
+.bonjour{
+ border-radius: 10px;
+}
+.hello{
+color: orange;
+padding-top: 75%;
+padding-left: 4%;
+}
+.hapt{
+color: white;
+padding-left: 4%;  
+}
+.contact{
+    color: red;
+    font-size: 70px;
+    margin-bottom: 10%;
+}
+input , select , textarea{
+    background-color: azure !important;
+    border-radius: 10px !important;
+    border: black 2px solid !important 
+}
+#but{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+#but:hover{
+    background-color: white;
+    color: black;
+    width: 100%;
+
